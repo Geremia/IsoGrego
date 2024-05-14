@@ -1,0 +1,21 @@
+name:Gressus meos;
+office-part:Antiphona;
+mode:4;
+transcriber:Jörg Hudelmaier;
+%%
+initial-style: 1;
+name: Gressus meos;
+book: Antiphonae & Responsoria/Tomus III, p. 95;
+occasion: Psalterium Hebdomada IV Feria II;
+office-part: Hora media Ant 1;
+user-notes: ;
+commentary: ;
+annotation: 4*e;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Gres(f)sus(d) me(e)os(f) dí(g)ri(g)ge,(e) Dó(f)mi(e)ne,(d) <v>\greheightstar</v>(,) se(f)cún(g)dum(h>) e(h)ló(hvGF)qui(g)um(gf~) tu(e)um.(e) (::)
+E(g) u(g) o(h) u(f) a(g) e.(e) (::)

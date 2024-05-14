@@ -1,0 +1,21 @@
+name:Temptaverunt me;
+office-part:Antiphona;
+mode:7;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Temptaverunt me;
+book: CAO 1168/https://www.e-codices.unifr.ch/en/sbe/0611/72r;
+occasion: Psalterium Hebdomada II Sabbato;
+office-part: Officium Lectionis Ant 2;
+user-notes: ;
+commentary: ;
+annotation: 7a;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c3)Tem(g)pta(h)vé(i)runt(j) me(i) <v>\greheightstar</v>() pa(ih)tres(iji) ve(hg)stri,(fgf) (;) pro(d)ba(f)vé(h)runt(i) et(g) vi(h)dé(f)runt(f) ó(gf)pe(g)ra(f) me(e)a.(e) (::)
+E(i) u(i) o(j) u(i) a(h) e.(gf) (::)

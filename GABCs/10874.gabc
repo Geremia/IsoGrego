@@ -1,0 +1,21 @@
+name:Laudate Dominum omnes gentes;
+office-part:Antiphona;
+mode:e;
+transcriber:Jörg Hudelmaier;
+%%
+initial-style: 1;
+name: Laudate Dominum;
+book: Antiphonae & Responsoria/Tomus III, p.30;
+occasion: Psalterium Hebdomada I Sabbato;
+office-part: Laudes Ant. 3;
+user-notes: ;
+commentary: ;
+annotation: E;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Lau(f)dá(h)te(ixi) Dó(g)mi(go)num,(f) <v>\greheightstar</v>() om(f)nes(gh~) gen(h)tes.(h) (::)
+E(h) u(h) o(ixi) u(g) a(ixi) e.(h) (::)

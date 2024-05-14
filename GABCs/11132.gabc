@@ -1,0 +1,21 @@
+name:Habitabit;
+office-part:Antiphona;
+mode:4;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Habitabit;
+book: Antiphonae & Responsoria/Tomus III, p. 10;
+occasion: Psalterium Hebdomada I Feria II;
+office-part: Vesperae Ant 2;
+user-notes: ;
+commentary: ;
+annotation: 4*e;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Ha(fe)bi(d)tá(f)bit(e) <v>\greheightstar</v>() in(d) ta(e)ber(f)ná(g)cu(f)lo(e) tu(fg)o,(g) (;) re(g)qui(f)é(fe)scet(d) in(d) mon(f)te(f) san(fd~)cto(f) tu(g)o.(e) (::)
+E(g) u(g) o(h) u(f) a(g) e.(e) (::)

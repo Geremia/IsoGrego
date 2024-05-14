@@ -1,0 +1,21 @@
+name:Deus noster;
+office-part:Antiphona;
+mode:1;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Deus noster;
+book: Liber nocturnalis, p. 49;
+occasion: Psalterium Hebdomada III Feria III;
+office-part: Officium Lectionis Ant 2;
+user-notes: ;
+commentary: ;
+annotation: 1f;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)De(dc)us(f) no(gh)ster(h) <v>\greheightstar</v>() De(ixi)us(h) ad(g) sal(h)ván(fe)dum.(d) (::)
+E(h) u(h) o(g) u(f) a(gh) e.(gf) (::)

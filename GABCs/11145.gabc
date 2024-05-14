@@ -1,0 +1,21 @@
+name:Dignus es Domine;
+office-part:Antiphona;
+mode:4;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Dignus es Domine;
+book: Antiphonae & Responsoria/Tomus III, p. 15;
+occasion: Psalterium Hebdomada I Feria III;
+office-part: Vesperae Ant 3;
+user-notes: ;
+commentary: ;
+annotation: 4*e;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Di(c)gnus(c) es,(f) Dó(e)mi(cd)ne(d) <v>\greheightstar</v>(,) De(e)us(fg) no(ggo)ster,(e) (,) ac(c)cí(c)pe(c)re(ed) gló(f)ri(ed)am(d) (,) et(e) ho(fg)nó(gf)rem.(e) (::)
+E(g) u(g) o(h) u(f) a(g) e.(e) (::)

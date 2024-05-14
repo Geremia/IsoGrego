@@ -1,0 +1,21 @@
+name:Inclinate aurem;
+office-part:Antiphona;
+mode:1;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Inclinate aurem;
+book: Psalterium currens, p. 125;
+occasion: Psalterium Hebdomada IV Feria VI;
+office-part: Officium Lectionis Ant 1;
+user-notes: ;
+commentary: ;
+annotation: 1g3;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)In(f)cli(g)ná(h)te(gf) <v>\greheightstar</v>() au(gh)rem(g) ve(f)stram(f) (,) in(f) ver(e)ba(f) o(g)ris(fe) me(d)i.(d) (::)
+E(h) u(h) o(g) u(f) a(h) e.(g) (::)

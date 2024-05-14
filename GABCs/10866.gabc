@@ -1,0 +1,21 @@
+name:Tres ex uno ore;
+office-part:Antiphona;
+mode:8;
+book:Antiphonale monasticum II, 2006, p. 34;
+transcriber:Jörg Hudelmaier;
+%%
+initial-style: 1;
+name: Tres ex uno ore;
+book: Antiphonae & Responsoria/Tomus III, p. 34;
+occasion: Psalterium Hebdomada II Dominica;
+office-part: Laudes Ant 2;
+user-notes: ;
+commentary: ;
+annotation: 8g;
+centering-scheme: english; mihi homo.fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Tres(gh) <v>\greheightstar</v>() ex(gf) u(g)no(hj) o(jvIH)re(h) (,) cla(kj~)má(kv/ljk)bant(jk/jjoIH) in(f) ca(h)mí(ji)no(hg) i(h>)gnis(g) (;) et(h) psal(hji)lé(hg)bant:(f) (,) Be(g)ne(h)dí(i)ctus(h) De(g)us.(g) (::)
+E(j) u(j) o(i) u(j) a(h) e.(g) (::)

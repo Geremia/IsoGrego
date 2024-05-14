@@ -1,0 +1,21 @@
+name:Pater sancte serva eos in (Mode 4*e);
+office-part:Antiphona;
+mode:4;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Pater sancte serva eos in
+book: Antiphonae & Responsoria/Tomus II, p. 254;
+occasion: Hebdomada VII Paschae Feria IV;
+office-part: Laudes Ant E;
+user-notes: ;
+commentary: ;
+annotation: 4*e;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Pa(f)ter(d) san(e)cte,(fd) <v>\greheightstar</v>(,) ser(e)va(f) e(g)os(f) in(f) nó(f)mi(e)ne(cd) tu(d)o(d) (;) quos(c) de(de)dí(e)sti(e) mi(fe)hi,(dc) al(d)le(f)lú(gf)ia.(e) (::)
+E(g) u(g) o(h) u(f) a(g) e.(e) (::)

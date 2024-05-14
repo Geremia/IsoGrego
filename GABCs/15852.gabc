@@ -1,0 +1,19 @@
+name:Qui perdiderit 2 (mode 2);
+office-part:Antiphona;
+mode:2;
+book:Antiphonæ et Responsoria - Tomus IV, 2019, p. 63;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Qui perdiderit 2;
+book: Antiphonae & Responsoria/Tomus IV, p. 63;
+occasion: Dominica XIII per Annum;
+office-part: Vesperae Ant Ma;
+annotation: 2*c;
+centering-scheme: english;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c3)Qui(hg) per(h)dí(i)de(i)rit(i) <v>\greheightstar</v>(,) á(i)ni(i)mam(i) su(i)am(h) prop(ij)ter(hg>) me,(f) (;) in(f)vé(f)ni(f)et(e) e(f)am(d) in(f) æ(h)tér(f)num.(f) (::) E(i) u(i) o(i) u(i) a(i) e.(h) (::)
+ 

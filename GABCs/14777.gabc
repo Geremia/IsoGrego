@@ -1,0 +1,21 @@
+name:Creatura omnis;
+office-part:Antiphona;
+mode:8;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Creatura omnis
+book: Antiphonae & Responsoria/Tomus II, p. 165;
+occasion: Feriis III Usque ad Ascensionem Domini;
+office-part: Vesperae Ant 3;
+user-notes: ;
+commentary: ;
+annotation: 8g;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Cre(g)a(fd)tú(e)ra(f) om(gh~)nis(h) <v>\greheightstar</v>(,) lau(hg/[-0.3]hjji~)det(hg) Dó(hi)mi(hg)num:(g) (;) qui(gh)a(gf) i(g)pse(h) di(jjk)xit,(j) (,) et(j) fa(kl)cta(k) sunt(ji) óm(jk>)ni(hg)a;(ghGF) (;) man(fh)dá(j)vit(i) et(j) cre(kj)á(hi)ta(hg) sunt,(gvFD) al(f)le(gh)lú(g)ia.(g) (::)
+E(j) u(j) o(i) u(j) a(h) e.(g) (::)

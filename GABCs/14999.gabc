@@ -1,0 +1,19 @@
+name:Et ingressae;
+office-part:Antiphona;
+mode:3;
+%%
+initial-style: 1;
+name: Et ingressae;
+book: CAO 2707;
+occasion: Octava Paschae Feria VI;
+office-part: Officium Lectionis Ant 1*;
+user-notes: ;
+commentary: ;
+annotation: 3a2;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Et(g) in(h)grés(gi)sæ(i) <v>\greheightstar</v>(,) non(ih) in(j)ve(i)né(hgh)runt(e) cor(e>)pus(d) Dó(e)mi(f)ni(g) Ie(h)su,(gf) al(g)le(gf)lú(e)ia.(e) (::) E(i) u(i) o(j) u(i) a(h) e.(goh) (::)

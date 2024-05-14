@@ -1,0 +1,21 @@
+name:Dominus solus;
+office-part:Antiphona;
+mode:1;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Dominus solus;
+book: CAO 2421/http://cantus.uwaterloo.ca/chant/493095;
+occasion: Psalterium Hebdomada IV Sabbato;
+office-part: Officium Lectionis Ant 2;
+user-notes: ;
+commentary: ;
+annotation: 1a;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Dó(f)mi(h)nus(g) so(g)lus(e) <v>\greheightstar</v>() du(f)cé(g)bat(e) e(f)os.(d) (::)
+E(h) u(h) o(g) u(f) a(g) e.(h) (::)

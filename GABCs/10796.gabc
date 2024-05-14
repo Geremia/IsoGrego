@@ -1,0 +1,21 @@
+name:Deduc me in via aeterna;
+office-part:Antiphona;
+mode:2;
+transcriber:Jörg Hudelmaier;
+%%
+initial-style: 1;
+name: Deduc me;
+book: Antiphonae & Responsoria/Tomus III, p. 103;
+occasion: Psalterium Hebdomada IV Feria IV;
+office-part: Vesperae Ant 2;
+user-notes: ;
+commentary: ;
+annotation: 2d;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(f3)De(h)duc(hg~) me(f) <v>\greheightstar</v>(,) in(e) vi(fh)a(hg) æ(f)tér(ef)na.(f) (::)
+E(h) u(h) o(h) u(g) a(ef) e.(f) (::)

@@ -1,0 +1,21 @@
+name:Dominum Deum nsotrum;
+office-part:Antiphona;
+mode:e;
+book:Liber Hymnarius, 1983, p. 180;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Dominum Deum nsotrum;
+book: Liber Hymnarius p. 180;
+occasion: Tempore Per Annum in Feriis VI;
+office-part: Ad Invitatorium;
+user-notes: ;
+commentary: ;
+annotation: E;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(f3)Dó(e)mi(fg)num(g) De(gh)um(g) no(h)strum,(fgF_E_) (;) ve(gh)ni(i)te(h) ad(ih)o(fg)re(g.)mus.(g.) (::)

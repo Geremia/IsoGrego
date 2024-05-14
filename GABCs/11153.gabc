@@ -1,0 +1,21 @@
+name:Memorare Domine;
+office-part:Antiphona;
+mode:8;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Memorare Domine;
+book: Antiphonae & Responsoria/Tomus III, p. 17;
+occasion: Psalterium Hebdomada I Feria IV;
+office-part: Laudes Ant E;
+user-notes: ;
+commentary: ;
+annotation: 8g;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Me(g)mo(f)rá(e)re,(f) Dó(gh)mi(h)ne,(g) <v>\greheightstar</v>(,) te(g)sta(g)mén(h)ti(gf) san(g)cti(gh) tu(f)i,(f) (;) et(hj~) fac(h) no(ih)bi(ji)scum(h) re(gf)dem(h)pti(hi)ó(g)nem.(g) (::)
+E(j) u(j) o(i) u(j) a(h) e.(g) (::)

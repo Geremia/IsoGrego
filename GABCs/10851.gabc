@@ -1,0 +1,21 @@
+name:Te decet hymnus;
+office-part:Antiphona;
+mode:8;
+transcriber:Jörg Hudelmaier;
+%%
+initial-style: 1;
+name: Te decet hymnus;
+book: Antiphonae & Responsoria/Tomus III, p. 43;
+occasion: Psalterium Hebdomada II Feria III;
+office-part: Laudes Ant 3;
+user-notes: ;
+commentary: ;
+annotation: 8c;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c3)Te(h) de(i)cet(f) hym(f)nus,(e) <v>\greheightstar</v>() De(f)us,(e) in(f) Si(de)on.(e) (::)
+E(h) u(h) o(f) u(h) a(i) e.(h) (::)

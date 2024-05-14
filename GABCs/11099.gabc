@@ -1,0 +1,21 @@
+name:Sacrificium laudis;
+office-part:Antiphona;
+mode:4;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Sacrificium laudis;
+book: Vesperale Ambrosianum, p. 570:;
+occasion: Psalterium Hebdomada IV Sabbato;
+office-part: Officium Lectionis Ant 3;
+user-notes: ;
+commentary: ;
+annotation: 4e;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Sa(d)cri(ef)fí(g)ci(gf)um(e) lau(f)dis(d) <v>\greheightstar</v>(,) ho(e)no(d)ri(c)fi(d)cá(e)vit(f) me(e) Dó(d)mi(f)nus.(e) (::)
+E(h) u(g) o(h) u(ih) a(gf) e.(e) (::)

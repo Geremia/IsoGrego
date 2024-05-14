@@ -1,0 +1,21 @@
+name:Dominum Deum tuum;
+office-part:Antiphona;
+mode:8;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Dominum Deum tuum
+book: Antiphonae & Responsoria/Tomus II, p. 17;
+occasion: Hebdomada I Quadragesimae Dominica;
+office-part: Vesperae II Ant 1;
+user-notes: ;
+commentary: ;
+annotation: 8g;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Dó(f)mi(fg)num(g) <v>\greheightstar</v>() De(h)um(g) tu(h)um(gf) ad(gh)o(h)rá(gfg)bis(d) (;) et(d) il(e)li(f) so(g)li(f) sér(hi>)vi(hg)es.(g) (::)
+E(j) u(j) o(i) u(j) a(h) e.(g) (::)

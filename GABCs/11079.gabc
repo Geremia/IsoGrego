@@ -1,0 +1,21 @@
+name:Clamor meus;
+office-part:Antiphona;
+mode:1;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Clamor meus;
+book: Psalterium currens, p. 163;
+occasion: Psalterium Hebdomada IV Feria III;
+office-part: Officium Lectionis Ant 1;
+user-notes: ;
+commentary: ;
+annotation: 1a;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Cla(h)mor(g) me(h)us(gf) <v>\greheightstar</v>() ad(e) te(f) vé(g)ni(g)at,(e) De(fe)us.(d) (::)
+E(h) u(h) o(g) u(f) a(g) e.(h) (::)

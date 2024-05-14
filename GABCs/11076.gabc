@@ -1,0 +1,21 @@
+name:Quam bonus;
+office-part:Antiphona;
+mode:8;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Quam bonus;
+book: MIL;
+occasion: Psalterium Hebdomada IV Feria II;
+office-part: Officium Lectionis Ant 1;
+user-notes: ;
+commentary: ;
+annotation: 8c;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Quam(ji) bo(ji)nus(h) <v>\greheightstar</v>() De(g)us(h) Is(i)ra(h)el.(g) (::)
+E(j) u(j) o(h) u(j) a(k) e.(j) (::)

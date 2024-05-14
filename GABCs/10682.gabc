@@ -1,0 +1,22 @@
+name:In medio ecclesiae;
+office-part:Antiphona;
+mode:8;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: In medio ecclesiæ;
+book: Antiphonae & Responsoria/Tomus III, p. 40;
+occasion: Psalterium Hebdomada II Feria II;
+office-part: Hora media Ant. 3;
+user-notes: ;
+commentary: ;
+annotation: 8g;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)In(g>) mé(g)di(g)o(f) ec(h)clé(j)si(jo)æ(i) 
+<v>\greheightstar</v>() lau(hg~)dá(ij)bo(h) te,(h) Dó(i)mi(h)ne.(g) (::)
+E(j) u(j) o(i) u(j) a(h) e.(g) (::)

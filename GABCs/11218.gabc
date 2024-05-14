@@ -1,0 +1,21 @@
+name:Lucem tuam;
+office-part:Antiphona;
+mode:4;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Lucem tuam;
+book: https://gallica.bnf.fr/ark:/12148/btv1b8447768b/f397.item;
+occasion: Antiphonae ad libitum ad canticum Nunc dimittis;
+office-part: Completorium;
+user-notes: ;
+commentary: ;
+annotation: 4e;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Lu(c)cem(d) tu(cdf)am,(f) <v>\greheightstar</v>(,) Dó(f)mi(f)ne,(fe) no(dc)bis(d) con(dfd)cé(e)de,(e) (,) ut(ixdh/iv) de(h)strú(gh)ctis(g) cór(gf~)di(g)um(ghg) té(f)ne(fvED)bris(ed) (,) per(fe~)ve(d)ní(dg/hv)re(g) pós(g)si(gf)mus(dc) ad(g) lu(g)men(gf) quod(g) est(ghg) Chri(e)stus.(e) (::)
+E(h) u(g) o(h) u(ih) a(gf) e.(e) (::)

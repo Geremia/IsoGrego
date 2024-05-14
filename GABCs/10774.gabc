@@ -1,0 +1,21 @@
+name:Cantate Domino;
+office-part:Antiphona;
+mode:6;
+transcriber:Jörg Hudelmaier;
+%%
+initial-style: 1;
+name: Cantate Domino;
+book: Antiphonae & Responsoria/Tomus III, p. 94;
+occasion: Psalterium Hebdomada IV Feria II;
+office-part: Laudes Ant 2;
+user-notes: ;
+commentary: ;
+annotation: 6f;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Can(fd~)tá(f)te(g) Dó(h)mi(gf)no(g) <v>\greheightstar</v>() cán(fd~)ti(f)cum(g) no(g)vum.(f) (::)
+E(h) u(h) o(f) u(gh) a(g) e.(f) (::)

@@ -1,0 +1,21 @@
+name:O mors;
+office-part:Antiphona;
+mode:2;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: O mors
+book: Antiphonae & Responsoria/Tomus II, p. 141;
+occasion: Hebdomada Sancta Sabbato Sancto;
+office-part: Vesperae Ant 1;
+user-notes: ;
+commentary: ;
+annotation: 2*d;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c3)O(hi) mors,(iio) <v>\greheightstar</v>(,) e(h)ro(i) mors(jh) tu(i)a;(i) (;) mor(fi)sus(hg) tu(fe)us(fe) (,) e(de)ro,(f) in(h)fér(f)ne.(f) (::)
+E(i) u(h) o(i) u(j) a(h) e.(i) (::)

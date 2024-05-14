@@ -1,0 +1,22 @@
+name:Benedictus Dominus quia;
+office-part:Antiphona;
+mode:4;
+book:Antiphonæ et Responsoria - Tomus III, 2018, p. 39;
+transcriber:Jörg Hudelmaier;
+%%
+initial-style: 1;
+name: Benedictus Dominus;
+book: Antiphonae & Responsoria/Tomus III, p. 39;
+occasion: Psalterium Hebdomada II Feria II;
+office-part: Laudes Ant E;
+user-notes: ;
+commentary: ;
+annotation: 4e;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Be(g)ne(f)dí(e)ctus(d) Dó(ef)mi(ed)nus,(c) <v>\greheightstar</v>(,) qui(e)a(fd) vi(e)si(f)tá(gh)vit(h) (,) et(h) li(hg)be(f)rá(gh)vit(ggo) nos.(e) (::)
+E(h) u(g) o(h) u(ih) a(gf) e.(e) (::)

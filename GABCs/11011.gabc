@@ -1,0 +1,21 @@
+name:In aeternum Dominus;
+office-part:Antiphona;
+mode:4;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: In aeternum Dominus;
+book: Psalterium currens, p. 21;
+occasion: Psalterium Hebdomada I Feria III;
+office-part: Officium Lectionis Ant 2;
+user-notes: ;
+commentary: ;
+annotation: 4*e;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)In(f) æ(d)tér(e)num(f) <v>\greheightstar</v>() Dó(g)mi(g)nus(e) re(f)gná(gh)bit(g) (`) et(f) ul(gf~)tra.(e) (::)
+E(g) u(g) o(h) u(f) a(g) e.(e) (::)

@@ -1,0 +1,21 @@
+name:Ego sum pastor bonus alleluia (Mode 6f);
+office-part:Antiphona;
+mode:6;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Ego sum pastor bonus alleluia
+book: Antiphonae & Responsoria/Tomus II, p. 202;
+occasion: Hebdomada IV Paschae Feria V;
+office-part: Vesperae Ant E;
+user-notes: ;
+commentary: ;
+annotation: 6f;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)E(f)go(f) sum(f) pa(f)stor(e) bo(g)nus,(h) <v>\greheightstar</v>(`) al(f)le(f)lú(d>)ia,(c) (;) qui(f) pa(f)sco(f) o(f)ves(e) me(g)as,(h) (`) al(h)le(hg)lú(g>)ia.(f) (::)
+E(h) u(h) o(f) u(gh) a(g) e.(f) (::)

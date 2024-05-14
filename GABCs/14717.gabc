@@ -1,0 +1,21 @@
+name:Virgam virtutis ... in splendoribus (Mode 8g-fg);
+office-part:Antiphona;
+mode:8;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Virgam virtutis ... in splendoribus
+book: Antiphonae & Responsoria/Tomus II, p. 32;
+occasion: Hebdomada II Quadragesimae Dominica;
+office-part: Vesperae II Ant 1;
+user-notes: ;
+commentary: ;
+annotation: 8g;
+centering-scheme: english;
+fontsize: 12;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c4)Vir(fg)gam(g) vir(g)tú(h)tis(g) tu(f)æ(f) <v>\greheightstar</v>(,) e(hg)mít(fg)tet(g) Dó(gh)mi(g)nus(g) (,) in(g) splen(g)dó(g)ri(f)bus(gh) san(h>)ctó(g)rum.(g) (::)
+E(j) u(j) o(i) u(j) a(h) e.(g) (::)

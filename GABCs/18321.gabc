@@ -1,0 +1,11 @@
+name:Alleluia alleluia (Dom. ad Laudes);
+office-part:Antiphona;
+mode:6;
+%%
+name: Alleluia alleluia;
+annotation: 6. F;
+mode: 6;
+office-part: antiphona;
+initial-style: 1;
+%%
+(c4)Al(c)le(e)lú(g)ia,(g) *(;) al(gh)le(g)lú(f)ia.(e.) (::)

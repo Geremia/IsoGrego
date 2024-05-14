@@ -1,0 +1,18 @@
+name:Caro mea vere... potus (mode 2*);
+office-part:Antiphona;
+mode:2;
+book:Antiphonæ et Responsoria - Tomus IV, 2019, p. 112;
+transcriber:Joerg Hudelmaier;
+%%
+initial-style: 1;
+name: Caro mea vere... potus;
+book: Antiphonae & Responsoria/Tomus IV, p. 112;
+occasion: Dominica XX per Annum;
+office-part: Vesperae Ant Mb;
+annotation: 2*a*;
+centering-scheme: english;
+font: OFLSortsMillGoudy;
+height: 11;
+width: 4.5;
+%%
+(c3)Ca(e)ro(f) me(hi)a(iio) <v>\greheightstar</v>(,) ve(hi)re(j) est(ih) ci(i)bus(i) (;) et(fi) san(h)guis(g) me(fe)us(fe) (,) ve(de)re(f) est(h) po(f)tus.(f) (::) E(i) u(h) o(i) u(j) a(h) e.(ef) (::)
