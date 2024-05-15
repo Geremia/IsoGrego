@@ -7,31 +7,50 @@
 # NEED TO RUN load.py FIRST
 
 import sys
-if len(sys.argv) != 4:
-    print("Two args required: similarity matrix shared memory ID, GregoBase ID, number of results")
+if len(sys.argv) != 5:
+    print("4 args required: similarity matrix shared memory ID, # matrix rows/cols, GregoBase ID, number of results")
     sys.exit(1)
 
-import glob, re
+import os, re, io
 import numpy as np
-
-text_files = glob.glob("GABCs/*.gabc")
-documents = [open(f).read() for f in text_files]
-
+import scipy.sparse as sp
 from multiprocessing import shared_memory, resource_tracker
+
+os.chdir('GABCs')
+text_files = os.listdir()
+documents = [open(f).read() for f in text_files]
+arr_size = int(sys.argv[2])
+num_elems = arr_size*(arr_size+1)//2  # n(n+1)/2 elements in lower-triangle (incl. diagonal)
+
 existing_shm = shared_memory.SharedMemory(name=sys.argv[1])
-resource_tracker.unregister(existing_shm._name, 'shared_memory') # https://stackoverflow.com/a/64916180/1429450
-data = np.ndarray((19315, 19315), dtype=np.float64, buffer=existing_shm.buf)
+resource_tracker.unregister(existing_shm._name, 'shared_memory') # Keep SHM persistent. https://stackoverflow.com/a/64916180/1429450
+pairwise_similarity = np.ndarray((num_elems,), dtype=np.float64, buffer=existing_shm.buf)  # The lower-triangular matrix is in 1-D array representation.
+
+# 🎩-tip for the following 2 functions: ChatGPT 4o https://chat.openai.com/share/75de2f76-cd12-4d4f-9e4a-154eac227407
+def get_index(i, j, n):
+    if i >= j:
+        return i * (i + 1) // 2 + j
+    else:
+        return j * (j + 1) // 2 + i
+def get_row_from_1d_array(lower_tri_elements, row_index, n):
+    row = np.zeros(n)
+    for j in range(n):
+        index = get_index(row_index, j, n)
+        row[j] = lower_tri_elements[index]
+    return row
 
 #top n similar files for document
-filename=sys.argv[2]+'.gabc'
-n = int(sys.argv[3])
-data_idx = text_files.index('GABCs/'+filename)
-topn = np.argsort(data[data_idx])[::-1][:n+1]
+filename=sys.argv[3]+'.gabc'
+n = int(sys.argv[4])
+idx = text_files.index(filename)
+
+row = get_row_from_1d_array(pairwise_similarity,idx,arr_size)
+topn = np.argsort(row)[::-1][:n+1]
 for i in topn:
     gabc = documents[i]
     name = re.findall("name:[^;]*", gabc)[0]
     name = name.replace("name:", "")
-    gabc_id = re.sub('GABCs/','',text_files[i])
+    gabc_id = text_files[i]
     gabc_id = int(re.sub(".gabc", "", gabc_id))
-    print('<li><details><summary><a href="?id=%d">🔍</a> '%(gabc_id)+str(round(data[data_idx][i]*100))+'% '+'%s</summary><a href="https://gregobase.selapa.net/chant.php?id=%d" target="_blank"><img src="https://gregobase.selapa.net/chant_img.php?id=%d" alt="%s" loading="lazy"/></a></details></li>'%(name, gabc_id, gabc_id, name))
+    print('<li><details><summary><a href="?id=%d">🔍</a> '%(gabc_id)+str(round(row[i]*100))+'% '+'%s</summary><a href="https://gregobase.selapa.net/chant.php?id=%d" target="_blank"><img src="https://gregobase.selapa.net/chant_img.php?id=%d" alt="%s" loading="lazy"/></a></details></li>'%(name, gabc_id, gabc_id, name))
 

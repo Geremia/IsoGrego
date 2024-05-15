@@ -29,14 +29,14 @@
   <ol start="0">
     <?php
     if (isset($id) and isset($n)) {
-        if ($id < 0 or $id > 18138)
+        if ($id < 0 or $id > $max_id)
                 die('<font color="red">GregoBase ID must be >0 and ≤18138.</font>');
         else if ($n < 0 or $n > 64)
                 die('<font color="red">Number of results must be >0 and ≤64.</font>');
         else {
                 $file = fopen("shm.name.txt", "r") or die('<font color="red">Unable to open similarity matrix.</font>');
                 $shm_name = trim(fgets($file));
-                echo shell_exec('./TF-IDF.py ' . $shm_name . ' ' . $id . ' ' . $n . ' 2>&1');
+                echo shell_exec('./TF-IDF.py ' . $shm_name . ' ' . $max_id . ' ' . ' ' . $id . ' ' . $n . ' 2>&1');
         }
     }
     ?>
