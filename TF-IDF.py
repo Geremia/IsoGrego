@@ -22,7 +22,11 @@ documents = [open(f).read() for f in text_files]
 arr_size = int(sys.argv[2])
 num_elems = arr_size*(arr_size+1)//2  # n(n+1)/2 elements in lower-triangle (incl. diagonal)
 
-existing_shm = shared_memory.SharedMemory(name=sys.argv[1])
+try:
+    existing_shm = shared_memory.SharedMemory(name=sys.argv[1])
+except:
+    print('<font color="red">Unable to open similarity matrix from shared memory.</font>')
+    sys.exit(1)
 resource_tracker.unregister(existing_shm._name, 'shared_memory') # Keep SHM persistent. https://stackoverflow.com/a/64916180/1429450
 pairwise_similarity = np.ndarray((num_elems,), dtype=np.float64, buffer=existing_shm.buf)  # The lower-triangular matrix is in 1-D array representation.
 
