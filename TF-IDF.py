@@ -11,9 +11,8 @@ if len(sys.argv) != 5:
     print("4 args required: similarity matrix shared memory ID, # matrix rows/cols, GregoBase ID, number of results")
     sys.exit(1)
 
-import os, re, io
+import os, re
 import numpy as np
-import scipy.sparse as sp
 from multiprocessing import shared_memory, resource_tracker
 
 os.chdir('GABCs')
@@ -52,7 +51,10 @@ row = get_row_from_1d_array(pairwise_similarity,idx,arr_size)
 topn = np.argsort(row)[::-1][:n+1]
 for i in topn:
     gabc = documents[i]
-    name = re.findall("name:[^;]*", gabc)[0]
+    try:
+        name = re.findall("name:[^;]*", gabc)[0]
+    except:
+        pass
     name = name.replace("name:", "")
     gabc_id = text_files[i]
     gabc_id = int(re.sub(".gabc", "", gabc_id))

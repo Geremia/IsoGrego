@@ -5,7 +5,7 @@
 #   and 'Top 49 chants most similar to the Requiem's gradual, sorted by cosine TF-IDF similarity of the GABC files.': https://forum.musicasacra.com/forum/discussion/comment/246225#Comment_246225
 
 from sklearn.feature_extraction.text import TfidfVectorizer
-import os, sys, os
+import os, sys
 import numpy as np
 
 npz_basename = 'lower_triangular'
