@@ -1,9 +1,6 @@
 name:Laudamus nomen tuum;
 office-part:Antiphona;
 mode:1;
+book:Liber antiphonarius, 1960, p. 72;
 %%
-initial-style: 1;
-annotation: 1. f.;
-%%
-(c4)Lau(d_c~)dá(f)mus(g) no(h')men(g) tu(fe)um(f) *() ín(f_g)cli(f)tum,(c') (,) De(e)us(gf) no(e.)ster.(e.) (::)
-E(h) u(h) o(g) u(f) a(gh) e.(g.f.) (::)
+(c4) LAu(d_[ll:1]c~)dá(f)mus(g) no(h')men(g) tu(fe)um(f) *() ín(f_g)cly(f)tum,(c') (,) De(d)us(fe) no(d.)ster.(d.) (::) <eu>E(h) u(h) o(g) u(f) a(gh) e.</eu>(gf..) (::)

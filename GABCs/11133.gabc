@@ -1,6 +1,7 @@
 name:In Filio suo;
 office-part:Antiphona;
 mode:5;
+book:Antiphonæ et Responsoria - Tomus III, 2018, p. 10;
 transcriber:Joerg Hudelmaier;
 %%
 initial-style: 1;
@@ -17,5 +18,5 @@ font: OFLSortsMillGoudy;
 height: 11;
 width: 4.5;
 %%
-(c3)In(f) fí(d)li(f)o(h) su(hi)o(h) <v>\greheightstar</v>(,) e(h)lé(hg)git(h) nos(i) De(hi)us(f) (,) in(f) a(f)dop(fi)ti(h)ó(gh)nem(fe) fi(f)li(e)ó(d)rum.(d) (::)
+(c3)In(f) Fí(d)li(f)o(h) su(hi)o(h) <v>\greheightstar</v>(,) e(h)lé(hg)git(h) nos(i) De(hi)us(f) (,) in(f) a(f)dop(fi)ti(h)ó(gh)nem(fe) fi(f)li(e)ó(d)rum.(d) (::)
 E(h) u(h) o(i) u(g) a(h) e.(f) (::)

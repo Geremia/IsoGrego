@@ -1,43 +1,24 @@
-name:Qui Procedis;
+name:Qui procedis;
 office-part:Sequentia;
-mode:1;
 book:Cantus selecti, 1957, p. 75* & Liber antiphonarius, 1960, p. 176*;
 transcriber:John Greutman;
 %%
-(c4)Qui(d) pro(h)cé(gf)dis(e) ab(g) u(h)tró(h)que,(d.) (;) Ge(e)ni(f)tó(g)re(g) Ge(hg)ni(f)tó(e)que,(d.) (;) Pá(e)ri(g)ter(h) Pa(d)rá(f)cli(e)te.(d.) 
-
-2.(::) Red(d)de(h) lin(gf)guas(e) e(g)lo(h)quén(h)tes,(d.) (;) Fac(e) fer(f)vén(g)tes(g) in(hg) te(f) men(e)tes(d.) (;) Flam(e)ma(g) tu(h)a(d) dí(f)vi(e)te.(d.) 
-
-3.(::) A(h)mor(j) Pa(k)tris(k) Fi(j)li(i)í(j)que,(h.) (;) Par(i) am(j)bó(k)rum,(jvIH) et(g) u(e)trí(gvFE)que(d.) (;) Com(e)par(g) et(h) con(d)sí(f)mi(e)lis.(d.) 
-
-4.(::) Cun(h)cta(j) re(k)ples,(k) cun(j)cta(i) fo(j)ves,(h.) (;) A(i)stras(j) re(k)gis,(jvIH) cæ(g)lum(e) mo(gvFE)ves,(d.) (;) Pér(e)ma(g)nens(h) im(d)mó(f)bi(e)lis.(d.) 
-
-5.(::) Lu(h)men(g) ca(h)rum,(h) lu(d)men(e) cla(f)rum,(d.) (;) In(e)ter(f)ná(g)rum(g) te(h)ne(ixivHG')brá(h)rum(h.) (;) Ef(d)fu(f)gas(h) ca(g)lí(f)gi(e)nem.(d.) 
-
-6.(::) Per(h) te(g) mun(h)di(h) sunt(d) mun(e)dá(f)ti:(d.) (;) Tu(e) pec(f)cá(g)tum,(g) tu(h) pec(ixivHG')cá(h)ti(h.) (;) Dé(d)stru(f)is(h) ru(g)bí(f)gi(e)nem.(d.) 
-
-7.(::) Ve(a)ri(c)tá(d)tem(c) no(f)tam(evDC') fa(d)cis,(d.) (;) Et(f) o(g)stén(h)dis(f) vi(g)am(fe) pa(d)cis,(c.) (;) Et(f) i(g)ter(h) ju(g)stí(f)ti(e)æ.(d.) 
-
-8.(::) Per(a)ver(c)só(d)rum(c) cor(f)da(evDC') vi(d)tas,(d.) (;) Et(f) bo(g)nó(h)rum(f) cor(g)da(fe) di(d)tas(c.) (;) Mú(f)ne(g)re(h) sci(g)én(f)ti(e)æ.(d.) 
-
-9.(::) Te(f) do(g)cén(h)te(h) nil(ixi) ob(ixivHG')scú(h)rum,(h.) (;) Te(h) re(ixi)gén(j)te(h) nil(ixi) im(gf)pú(h)rum(h.) (;) Sub(h) tu(g)a(f) præ(e)sén(g)ti(g)a.(h.) 
-
-10.(::) Glo(f)ri(g)á(h)tur(h) mens(ixi) ju(ixivHG')cún(h)da(h.) (;) Per(h) te(ixi) læ(j)ta;(h) per(ixi) te(gf) mun(h)da(h.) (;) Gau(h)det(g) con(f)sci(e)én(g)ti(g)a.(h.) 
-
-11.(::) Tu(k) com(j)mú(k)tas(g) e(h)le(j)mén(i)ta:(h.) (;) Per(k) te(j) su(k)am(g) sa(h)cra(j)mén(i)ta(h.) (;) Ha(h)bent(g) ef(h)fi(f)cá(g)ci(g)am(h.) 
- 
-12.(::) Tu(k) no(j)cí(k)vam(g) vim(h) re(j)pél(i)lis,(h.) (;) Tu(k) con(j)fú(k)tas(g) et(h) re(j)fél(i)lis(h.) (;) Hó(h)sti(g)um(h) ne(f)quí(g)ti(g)am.(h.) 
-
-13.(::) Quan(k)do(k) ve(g)nis,(g) cor(h)da(j) le(i)nis:(h.) (;) Quan(h)do(j) su(g)bis,(e) a(g)træ(f) nu(e)bis(d.) (;) Ef(e)fu(g)git(h) ob(jvIH)scú(g)ri(h)tas.(h.) 
-
-14.(::) Sa(k)cer(k) i(g)gnis,(g) cor(h) fi(j)dé(i)lis(h.) (;) In(h)tus(j) u(g)ris,(e) et(g) a(f) cu(e)ris(d.) (;) Pur(e)gas,(g) quan(h)do(jvIH) ví(g)si(h)tas.(h.) 
-
-15.(::) Men(e)tes(f) pri(g)us(g) im(g)pe(f)rí(gf)tas(ed__) (;) Et(f) so(g)pí(h)tas(h) et(ixi) o(g)blí(h)tas(h.) (;) E(ixi)ru(g)dis(h) et(f) éx(g)ci(g)tas.(h.) 
-
-16.(::) Fo(e)ves(f) lin(g)guas,(g) for(g)mes(f) so(gf)num;(ed__) (;) Cor(f) ad(g) bo(h)num(h) fa(ixi)cit(g) pro(h)num(h.) (;) A(ixi) te(g) da(h)ta(f) cá(g)ri(g)tas.(h.) 
-
-17.(::) O(f) ju(g)vá(h)men(h) op(ixi)pres(g)só(h)rum,(h.) (;) O(h) so(ixi)lá(j)men(h) mi(ixi)se(g)ró(h)rum,(h.) (;) Páu(d)pe(f)rum(h) re(g)fú(f)gi(e)um.(d.) 
-
-18.(::) Da(f) con(g)tém(h)ptum(h) ter(ixi)re(g)nó(h)rum,(h.) (;) Ad(h) a(ixi)mó(j)rem(h) su(ixi)per(g)nó(h)rum(h.) (;) Tra(d)he(f) de(h)si(g)dé(f)ri(e)um.(d.) (::) 
-
-A(c.d!ewf)men.(ed..) (::)
+(c4) QUI(d) pro(h)cé(gf)dis(e) ab(g) u(h)tró(h)que,(d.) (;) Ge(e)ni(f)tó(g)re(g) Ge(hg)ni(f)tó(e)que,(d.) (;) Pá(e)ri(g)ter(h) Pa(d)rá(f)cli(e)te.(d.) (::)
+2. Red(d)de(h) lin(gf)guas(e) e(g)lo(h)quén(h)tes,(d.) (;) Fac(e) fer(f)vén(g)tes(g) in(hg) te(f) men(e)tes(d.) (;) Flam(e)ma(g) tu(h)a(d) dí(f)vi(e)te.(d.) (::)
+3. A(h)mor(j) Pa(k)tris(k) Fi(j)li(i)í(j)que,(h.) (;) Par(i) am(j)bó(k)rum,(jvIH) et(g) u(e)trí(gvFE)que(d.) (;) Com(e)par(g) et(h) con(d)sí(f)mi(e)lis.(d.) (::)
+4. Cun(h)cta(j) re(k)ples,(k) cun(j)cta(i) fo(j)ves,(h.) (;) A(i)stras(j) re(k)gis,(jvIH) cae(g)lum(e) mo(gvFE)ves,(d.) (;) Pér(e)ma(g)nens(h) im(d)mó(f)bi(e)lis.(d.) (::)
+5. Lu(h)men(g) ca(h)rum,(h) lu(d)men(e) cla(f)rum,(d.) (;) In(e)ter(f)ná(g)rum(g) te(h)ne(ixivHG')brá(h)rum(h.) (;) Ef(d)fu(f)gas(h) ca(g)lí(f)gi(e)nem.(d.) (::)
+6. Per(h) te(g) mun(h)di(h) sunt(d) mun(e)dá(f)ti :(d.) (;) Tu(e) pec(f)cá(g)tum,(g) tu(h) pec(ixivHG')cá(h)ti(h.) (;) Dé(d)stru(f)is(h) ru(g)bí(f)gi(e)nem.(d.) (::)
+7. Ve(a)ri(c)tá(d)tem(c) no(f)tam(evDC') fa(d)cis,(d.) (;) Et(f) os(g)tén(h)dis(f) vi(g)am(fe) pa(d)cis,(c.) (;) Et(f) i(g)ter(h) ju(g)stí(f)ti(e)ae.(d.) (::)
+8. Per(a)ver(c)só(d)rum(c) cor(f)da(evDC') vi(d)tas,(d.) (;) Et(f) bo(g)nó(h)rum(f) cor(g)da(fe) di(d)tas(c.) (;) Mú(f)ne(g)re(h) sci(g)én(f)ti(e)ae.(d.) (::)
+9. Te(f) do(g)cén(h)te(h) nil(ixi) ob(ixivHG')scú(h)rum,(h.) (;) Te(h) re(ixi)gén(j)te(h) nil(ixi) im(gf)pú(h)rum(h.) (;) Sub(h) tu(g)a(f) prae(e)sén(g)ti(g)a.(h.) (::)
+10. Glo(f)ri(g)á(h)tur(h) mens(ixi) ju(ixivHG')cún(h)da(h.) (;) Per(h) te(ixi) lae(j)ta;(h) per(ixi) te(gf) mun(h)da(h.) (;) Gau(h)det(g) con(f)sci(e)én(g)ti(g)a.(h.) (::)
+11. Tu(k) com(j)mú(k)tas(g) e(h)le(j)mén(i)ta :(h.) (;) Per(k) te(j) su(k)am(g) sa(h)cra(j)mén(i)ta(h.) (;) Ha(h)bent(g) ef(h)fi(f)cá(g)ci(g)am(h.) (::)
+12. Tu(k) no(j)cí(k)vam(g) vim(h) re(j)pél(i)lis,(h.) (;) Tu(k) con(j)fú(k)tas(g) et(h) re(j)fél(i)lis(h.) (;) Hó(h)sti(g)um(h) ne(f)quí(g)ti(g)am.(h.) (::)
+13. Quan(k)do(k) ve(g)nis,(g) cor(h)da(j) le(i)nis :(h.) (;) Quan(h)do(j) sub(g)is,(e) a(g)trae(f) nu(e)bis(d.) (;) Ef(e)fu(g)git(h) ob(jvIH)scú(g)ri(h)tas.(h.) (::)
+14. Sa(k)cer(k) i(g)gnis,(g) cor(h) fi(j)dé(i)lis(h.) (;) In(h)tus(j) u(g)ris,(e) et(g) a(f) cu(e)ris(d.) (;) Pur(e)gas,(g) quan(h)do(jvIH) ví(g)si(h)tas.(h.) (::)
+15. Men(e)tes(f) pri(g)us(g) im(g)pe(f)rí(gf)tas(e_[oh:h][ll:1]d_[oh:h]) (;) Et(f) so(g)pí(h)tas(h) et(ixi) o(g)blí(h)tas(h.) (;) E(ixi)ru(g)dis(h) et(f) éx(g)ci(g)tas.(h.) (::)
+16. Fo(e)ves(f) lin(g)guas,(g) for(g)mas(f) so(gf)num;(e_[oh:h][ll:1]d_[oh:h]) (;) Cor(f) ad(g) bo(h)num(h) fa(ixi)cit(g) pro(h)num(h.) (;) A(ixi) te(g) da(h)ta(f) cá(g)ri(g)tas.(h.) (::)
+17. O(f) ju(g)vá(h)men(h) op(ixi)pres(g)só(h)rum,(h.) (;) O(h) so(ixi)lá(j)men(h) mi(ixi)se(g)ró(h)rum,(h.) (;) Páu(d)pe(f)rum(h) re(g)fú(f)gi(e)um.(d.) (::)
+18. Da(f) con(g)tém(h)ptum(h) ter(ixi)re(g)nó(h)rum,(h.) (;) Ad(h) a(ixi)mó(j)rem(h) su(ixi)per(g)nó(h)rum(h.) (;) Tra(d)he(f) de(h)si(g)dé(f)ri(e)um.(d.) (::)
+A(c.d!ewf)men.(e[ll:1]d..) (::)

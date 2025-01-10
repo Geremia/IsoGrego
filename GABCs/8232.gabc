@@ -1,9 +1,6 @@
-name:Deus Majestatis;
+name:Deus majestatis;
 office-part:Antiphona;
 mode:4;
+book:Liber antiphonarius, 1960, p. 71;
 %%
-initial-style: 1;
-annotation: 4. E.;
-%%
-(c4)De(f')us(d) ma(e')ie(f)stá(g)tis(e') *() in(f)tó(gh)nu(h)it:(g.) (;) af(g)fér(i_j)te(hg) gló(h)ri(fe)am(d) nó(fe)mi(f)ni(g) e(e.)ius.(e.) (::)
-E(h) u(g) o(h) u(ih) a(gf) e(e.) (::)
+(c4) DE(f')us(d) ma(e')je(f)stá(g)tis(e') *() in(f)tó(gh)nu(h)it :(g.) (;) af(g)fér(i_[uh:l]j)te(hg) gló(h)ri(fe)am(d) nó(fe)mi(f)ni(g) e(e.)jus.(e.) (::) <eu>E(h) u(g) o(h) u(ih) a(gf) e.</eu>(e.) (::)

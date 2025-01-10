@@ -1,11 +1,11 @@
 name:Telluris ingens;
 office-part:Hymnus;
-mode:1;
+mode:8;
 book:Antiphonale Monasticum, 1934, p. 141;
 transcriber:Andrew Hinkley;
 commentary:Tonus in Hieme;
 %%
-(c4) <v>\textcolor{red}{T}</v> El(d)lú(f')ris(g) in(g)gens(f) Cón(h')di(g)tor,(g'_) (,) Mun(d)di(f') so(g)lum(g) qui(f) é(h')ru(g)ens,(g.) (;) Pul(h)sis(jk) a(j)quæ(j') mo(g)lé(h')sti(g)is,(g_') (,) Ter(d)ram(f') de(g)dí(g)st<i>i</i>() im(f)mó(h')bi(g)lem:(g.) (::)
+(c4) TEl(d)lú(f')ris(g) in(g)gens(f) Cón(h')di(g)tor,(g'_) (,) Mun(d)di(f') so(g)lum(g) qui(f) é(h')ru(g)ens,(g.) (;) Pul(h)sis(jk) a(j)quæ(j') mo(g)lé(h')sti(g)is,(g_') (,) Ter(d)ram(f') de(g)dí(g)st<i>i</i>() im(f)mó(h')bi(g)lem:(g.) (::)
 2. Ut(d) ger(f')men(g) ap(g)tum(f) pró(h')fe(g)rens,(g'_) (,)
 Ful(d)vis(f') de(g)có(g)ra(f) fló(h')ri(g)bus,(g.) (;)
 Fe(h)cún(jk)da(j) fruc(j')tu(g) sís(h')te(g)ret,(g'_) (,)
@@ -16,7 +16,7 @@ Mun(d)da(f') vi(g)ró(g)re(f) grá(h')ti(g)æ:(g.) (;)
 Ut(h) fac(jk)ta(j) fle(j')tu(g) dí(h')lu(g)at,(g'_) (,)
 Mo(d)tús(f')que(g) pra(g)vos(f) át(h')te(g)rat.(g.) (::)
 
-4. Ius(d)sis(f') tu(g)is(g) ob(f)tém(h')pe(g)ret:(g'_) (,)
+4. Jus(d)sis(f') tu(g)is(g) ob(f)tém(h')pe(g)ret:(g'_) (,)
 Nul(d)lis(f') ma(g)lis(g) ap(f)pró(h')xi(g)met:(g.) (;)
 Bo(h)nis(jk) re(j)plé(j')ri(g) gáu(h')de(g)at,(g'_) (,)
 Et(d) mor(f')tis(g) ac(g)tum(f) né(h')sci(g)at.(g.) (::)
