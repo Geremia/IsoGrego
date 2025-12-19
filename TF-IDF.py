@@ -7,27 +7,26 @@
 # NEED TO RUN load.py FIRST
 
 import sys
-if len(sys.argv) != 5:
-    print("4 args required: similarity matrix shared memory ID, # matrix rows/cols, GregoBase ID, number of results")
+if len(sys.argv) != 3:
+    print("2 args required: GregoBase ID, number of results")
     sys.exit(1)
 
-import os, re
+from pathlib import Path
+import re
 import numpy as np
-from multiprocessing import shared_memory, resource_tracker
 
-os.chdir('GABCs')
-text_files = os.listdir()
-documents = [open(f).read() for f in text_files]
-arr_size = int(sys.argv[2])
+text_files = [f for f in Path('./GABCs').glob('*.gabc')]
+arr_size = len(text_files)
 num_elems = arr_size*(arr_size+1)//2  # n(n+1)/2 elements in lower-triangle (incl. diagonal)
 
+npy_basename = 'lower_triangular'
+npy_path = Path(f'{npy_basename}.npy')
+
 try:
-    existing_shm = shared_memory.SharedMemory(name=sys.argv[1])
+    pairwise_similarity = np.lib.format.open_memmap(npy_path)  # The lower-triangular matrix is in 1-D array representation.
 except:
-    print('<font color="red">Unable to open similarity matrix from shared memory.</font>')
+    print('<font color="red">Unable to open similarity matrix.</font>')
     sys.exit(1)
-resource_tracker.unregister(existing_shm._name, 'shared_memory') # Keep SHM persistent. https://stackoverflow.com/a/64916180/1429450
-pairwise_similarity = np.ndarray((num_elems,), dtype=np.float64, buffer=existing_shm.buf)  # The lower-triangular matrix is in 1-D array representation.
 
 # 🎩-tip for the following 2 functions: ChatGPT 4o https://chat.openai.com/share/75de2f76-cd12-4d4f-9e4a-154eac227407
 def get_index(i, j, n):
@@ -43,20 +42,18 @@ def get_row_from_1d_array(lower_tri_elements, row_index, n):
     return row
 
 #top n similar files for document
-filename=sys.argv[3]+'.gabc'
-n = int(sys.argv[4])
+filename=Path(f'GABCs/{sys.argv[1]}.gabc')
+n = int(sys.argv[2])
 idx = text_files.index(filename)
 
 row = get_row_from_1d_array(pairwise_similarity,idx,arr_size)
 topn = np.argsort(row)[::-1][:n+1]
 for i in topn:
-    gabc = documents[i]
+    gabc = text_files[i].read_text()
     try:
-        name = re.findall("name:[^;]*", gabc)[0]
+        name = re.findall(r"name:([^;]*)", gabc)[0]
     except:
         pass
-    name = name.replace("name:", "")
-    gabc_id = text_files[i]
-    gabc_id = int(re.sub(".gabc", "", gabc_id))
-    print('<li><details><summary><a href="?id=%d">🔍</a> '%(gabc_id)+str(round(row[i]*100))+'% '+'%s</summary><a href="https://gregobase.selapa.net/chant.php?id=%d" target="_blank"><img src="https://gregobase.selapa.net/chant_img.php?id=%d" alt="%s" loading="lazy"/></a></details></li>'%(name, gabc_id, gabc_id, name))
-
+    gabc_id = text_files[i].name
+    gabc_id = int(gabc_id.removesuffix(".gabc"))
+    print(f'<li><details><summary><a href="?id={gabc_id}">🔍</a> {round(row[i]*100)!s}% {name!s}</summary><a href="https://gregobase.selapa.net/chant.php?id={gabc_id}" target="_blank"><img src="https://gregobase.selapa.net/chant_img.php?id={gabc_id}" alt="{name!s}" loading="lazy"/></a></details></li>')
