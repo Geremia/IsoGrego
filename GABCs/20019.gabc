@@ -1,0 +1,13 @@
+name:Gaudete in Domino;
+office-part:Introitus;
+mode:1;
+transcriber:Christopher Jasper;
+%%
+annotation: Introitus
+annotation: I
+
+def-m1:\grechangeglyph{PorrectusLongqueue*}{*}{.alt};
+def-m2:\greresetglyph{PorrectusLongqueue*};
+
+%%
+(c4) Gau(dc~)dé(ec/ed)te(d!ewf) in(f) Dó(f!g!hv)mi(h)no(-ghg) sem(ixhwiHGhi>)per:(h) (;) í(f)te(d)rum(fvv) di(f)co,(f) gau(fgFEf>)dé(ded)te:(d) (:) mo(d)dé(d@fqg)sti(gf)a(f) ve(ixf!gwh!io)stra(h) (,) no(h)ta(-fgf) sit(g[nm1]) ó(hgh~)mni(h[nm2])bus(h) ho(h)mí(ixhv/ivHG)ni(hggfg)bus:(gf) (;) Dó(h)mi(gfg)nus(g) pro(hgh)pe(hg!hwihi) est.(ih) (,) Ni(jvv)hil(ix-hih>) sol(g>)lí(f!g!hv)ci(h)ti(ixhv/ivHG) si(hggfg)tis:(fog) (;) sed(c) in(d) o(dv/FFDe>)mni(c) o(c)ra(d)ti(g)ó(ixeg/hig)ne(g) (,) pe(f)ti(f)ti(f)ó(fgf)nes(-ded) ve(ded)strae(-cdc) (,) in(c)no(d)té(fvv)scant(d) a(d/ecd)pud(d) De(ded)um.(d) (::) <i>Ps.</i> Be(f)ne(gh)di(h)xí(h)sti,(h) Dó(h)mi(h)ne,(h) ter(hj>)ram(h) tu(hg)am:(gh) *(:) a(gf)ver(gh)tí(h)sti(h) ca(h)pti(h)vi(hjh)tá(g)tem(f) Ia(fsss)cob.(d) (::) 
