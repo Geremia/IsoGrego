@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta name="generator" content="HTML Tidy for HTML5 for Linux version 5.8.0">
   <title>IsoGrego: Find Related Gregorian Chants</title><?php
   session_start();
   if (isset($_GET['n']))
