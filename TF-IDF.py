@@ -29,7 +29,7 @@ except:
     sys.exit(1)
 
 # 🎩-tip for the following 2 functions: ChatGPT 4o https://chat.openai.com/share/75de2f76-cd12-4d4f-9e4a-154eac227407
-def get_index(i, j, n):
+def get_index(i, j):
     if i >= j:
         return i * (i + 1) // 2 + j
     else:
@@ -37,7 +37,7 @@ def get_index(i, j, n):
 def get_row_from_1d_array(lower_tri_elements, row_index, n):
     row = np.zeros(n)
     for j in range(n):
-        index = get_index(row_index, j, n)
+        index = get_index(row_index, j)
         row[j] = lower_tri_elements[index]
     return row
 
