@@ -19,7 +19,7 @@ def generateAndSaveSimilarityMatrix():
     vectorizer = TfidfVectorizer()  # http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html#sklearn.feature_extraction.text.TfidfTransformer
     tfidf = vectorizer.fit_transform(documents)
 
-    pairwise_similarity = tfidf * tfidf.T
+    pairwise_similarity = tfidf * (tfidf.T)
 
     # Extract the elements of the lower triangular part including the diagonal
     lower_triangular = pairwise_similarity.toarray()[np.tril_indices(pairwise_similarity.shape[0])]
