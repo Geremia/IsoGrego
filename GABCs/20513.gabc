@@ -1,0 +1,58 @@
+name:Alleluia a la Chants Abrégés;
+office-part:Alleluia;
+book:Chants abrégés, 1930, p. ;
+transcriber:Ian Udell;
+%%
+name: Alleluia a la Chants Abrégés;
+office-part: Alleluia;
+mode: 1;
+annotation: I;
+%fontsize: 20;
+%font: GaramondPremierPro;
+%width: 7.5;
+%height: 11;
+%spacing: ;
+%%
+(c4)AL<v>\vtop to 0.5cm{\hsize=0cm}</v>(c)le(d)lú(ixed/hi)i{a}. (hvhvGE'/fd.) (::)
+
+
+%font: GaramondPremierPro;
+%width: 7.5;
+%%
+(f3)AL<v>\vtop to 0.5cm{\hsize=0cm}</v>(ef~)le(f)lú(hf/fe~)i{a}. (egf.) (::)
+
+
+%font: GaramondPremierPro;
+%width: 7.5;
+%%
+(c4)AL<v>\vtop to 0.5cm{\hsize=0cm}</v>(e/ef)le(dg)lú(gih___!iwj)i{a}. (ijh'___/ig/ge.) (::)
+
+
+%font: GaramondPremierPro;
+%width: 7.5;
+%%
+(c4)AL<v>\vtop to 0.5cm{\hsize=0cm}</v>(e//ed~)le(e/ghe/fe)lú(de~)i{a}. (e.) (::)
+
+
+%font: GaramondPremierPro;
+%width: 7.5;
+%%
+(c3) AL<v>\vtop to 0.5cm{\hsize=0cm}</v>(d!f'h~)le(h_f)lú(fh'/ih~)ia.(iv./hiHF'fd.) (::)
+
+
+%font: GaramondPremierPro;
+%width: 7.5;
+%%
+(c4) AL<v>\vtop to 0.5cm{\hsize=0cm}</v>(ffg)le(gf)lú(ixfgi/higg)ia.(g.f.) (::)
+
+
+%font: GaramondPremierPro;
+%width: 7.5;
+%%
+(c3)AL<v>\vtop to 0.5cm{\hsize=0cm}</v>(ef)le(e)lú(e!f'h/ihi)i{a}. (ie..) (::)
+
+
+%font: GaramondPremierPro;
+%width: 7.5;
+%%
+(c4)AL<v>\vtop to 0.5cm{\hsize=0cm}</v>(g)le(hvGF/ghg)lú(fh!jvIG'h)i{a}. (g.) (::)
