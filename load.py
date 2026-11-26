@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# Generate the similarity matrix and store in lower_triangular.npy
+
 # 🎩 tip: https://stackoverflow.com/a/8897648/1429450
 # cf.: https://gregobase.selapa.net/?page_id=18#comment-66831
 #   and 'Top 49 chants most similar to the Requiem's gradual, sorted by cosine TF-IDF similarity of the GABC files.': https://forum.musicasacra.com/forum/discussion/comment/246225#Comment_246225

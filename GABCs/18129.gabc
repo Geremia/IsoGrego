@@ -1,15 +1,6 @@
 name:Venit ad Petrum;
-%%
-name: v ;
-user-notes: F-Pn lat 904 fol. 88v-89r  ;
-commentary: Graduale Rotomagense XIIIs. ;
-annotation: ad mand.;
-centering-scheme: latin;
-%fontsize: 12;
-%spacing: vichi;
-%font: OFLSortsMillGoudy;
-%width: 4.5;
-%height: 11;
+mode:3;
+commentary:Graduale Rotomagense XIIIs.;
 %%
 (c3)
 Ve(c/dff)nit(fghf/ggf) ad(exef) Pe(fgf)trum(f) di(ighijji)xit(gFE) (;) e(g)i(ighiHG) Pe(f)trus:(f)
